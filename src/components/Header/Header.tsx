@@ -12,8 +12,7 @@ const Header = () => {
                 <NavBar />
                 <div className="hero">
                 <CardDownloadApp />
-                <img src="images/ViewMobileAppMockup1.png" alt="" />
-
+                <img src="images/ViewMobileAppMockup1.png" alt="" className="phoneHero"/>
                 </div>
             </Wrapper>
         </C.Container>

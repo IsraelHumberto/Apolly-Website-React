@@ -35,6 +35,11 @@ const GlobalStyle = createGlobalStyle`
     small {
         font: 300 12.8px 'Josefin Sans', sans-serif;
     }
+
+    img {
+        display: block;
+        width: 100%;
+    }
 `;
 
 export default GlobalStyle
